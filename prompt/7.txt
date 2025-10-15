@@ -1,0 +1,20 @@
+Necesito actualizar la clase `CounterPage`  de una aplicación Flutter que utilice Dart 3.9+ y Flutter 3.35+. Por favor, considera los siguientes requisitos:
+ 
+1. **Modificación de `CounterPage`**:
+     - En la sección del `Scaffold` correspondiente al `FloatingActionButton`, elimina el botón simple existente y reemplázalo por un widget personalizado que implemente un grupo de botones estándar según las especificaciones de Material Design 3.
+     - Asegúrate de que los botones estén ordenados de la siguiente manera:
+         - Un botón para decrementar el contador (debe invocar un método que disminuya el valor del contador sin permitir valores negativos).
+         - Un botón para restablecer el contador a cero.
+         - Un botón para incrementar el contador.
+     - Cada botón debe incluir un ícono descriptivo que facilite su comprensión.
+     - Los controles deben encontrarse alineados en el dentro de la parte inferior de la pantalla
+2. **Actualización de la gestión de estado**:
+     - Actualiza la clase correspondiente de gestión de estado según sea necesario. Asegúrate de que incluya métodos para decrementar, restablecer e incrementar el contador.
+3. **Explicación detallada**:
+     - Para cada paso, proporciona una explicación exhaustiva de cómo estos cambios afectan la funcionalidad de la aplicación.
+ 
+Entrega la guía en un formato estructurado, diferenciando claramente cada paso y su respectiva explicación. Asegúrate de que la respuesta respete los principios de Arquitectura Limpia (Clean Architecture) y siga las directrices SOLID.
+ 
+Ten cuidado de no hacer suposiciones sobre la estructura de código existente y verifica que todos los cambios preserven el rendimiento y la modularidad de la aplicación.
+ 
+Como contexto, tengo experiencia en desarrollo móvil, pero necesito claridad sobre implementaciones específicas en Flutter. El resultado debe ser una guía práctica y paso a paso, dirigida a desarrolladores familiarizados con los principios de Arquitectura Limpia.

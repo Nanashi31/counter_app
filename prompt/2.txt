@@ -1,0 +1,9 @@
+Necesito una estructura detallada del sistema de archivos para organizar un proyecto de aplicación móvil utilizando Dart 3.9 o superior y Flutter 3.35 o superior, siguiendo los principios de la Arquitectura Limpia (Clean Architecture) y los principios de diseño SOLID. Por favor, proporciona lo siguiente:
+ 
+1. Una descripción clara de las carpetas principales que debo crear, específicamente:
+     - **features/** (incluyendo subcarpetas para cada funcionalidad, con subcarpetas internas llamadas *domain*, *data* y *presentation*)     - **core/** (incluyendo subcarpetas comunes como *constants*, *errors*, *network*, etc.)
+2. Una breve explicación del propósito de cada carpeta y subcarpeta, destacando cómo esta organización favorece la escalabilidad y el mantenimiento del proyecto a medida que crece.
+3. Instrucciones paso a paso para crear las carpetas y archivos en el sistema de archivos, detallando los nombres de archivo necesarios o las estructuras básicas que deben incluirse.
+4. Puedes considerar la funcionalidad necesaria para una aplicación que cuenta los clicks a un botón (Counter)
+ 
+Asegúrate de que la explicación sea clara y accesible, adecuada para alguien con conocimientos básicos de desarrollo móvil pero que no es un experto. El resultado debe evitar tecnicismos innecesarios y centrarse en las implicaciones prácticas de la estructura propuesta. Tengo experiencia en desarrollo de aplicaciones móviles, pero necesito orientación sobre cómo estructurar bases de código para proyectos más grandes.

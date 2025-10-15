@@ -1,0 +1,9 @@
+Necesito un comando para crear un nuevo proyecto de Flutter en la raíz de la carpeta; el proyecto debe llamarse for_you con las siguientes especificaciones:
+ 
+- el identificador de organización debe ser com.yael
+- dirigido únicamente a la plataforma Android
+- y utilizando el tipo de plantilla app
+ 
+Por favor, asegúrate de que el comando esté completo e incluya todos los parámetros necesarios. Después de presentar el comando, explica cada parte en términos sencillos, detallando su propósito y su importancia al iniciar el proyecto. Por ejemplo, aclara cómo el identificador ayuda a distinguir la aplicación en las tiendas de aplicaciones y por qué es fundamental especificar las plataformas para el despliegue.
+ 
+Ten cuidado de seguir las mejores prácticas de Flutter y asegúrate de que el comando esté actualizado según los estándares de Flutter 3.35 o superior. La explicación debe ser clara y accesible, ya que estoy comenzando mi camino en el desarrollo móvil con Flutter.

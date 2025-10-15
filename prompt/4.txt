@@ -1,0 +1,12 @@
+Necesito que me ayudes con la creación de archivos de tema para una aplicación Flutter que sigan los principios de Arquitectura Limpia (Clean Architecture) y utilicen Dart 3.9+ y Flutter 3.35+. Por favor, incluye las siguientes especificaciones para los archivos de tema:
+ 
+1. **Un archivo principal de diseño** que implemente Material Design 3 y asegure que el banner de depuración (*debug banner*) esté oculto.
+2. **Un archivo independiente** para definir estilos de texto personalizados, específicamente para el número del contador y la etiqueta (por ejemplo, «click» o «clicks»).
+3. **Un archivo de configuración para botones** (como `IconButton` y `FloatingActionButton`) que se utilizarán en la aplicación.
+4. **Establecer el color primario de la aplicación** con el valor hexadecimal #8c52ff.
+ 
+Cada archivo debe ir acompañado de una breve explicación de su función dentro de la organización del código, junto con fragmentos de código de ejemplo.
+ 
+Asegúrate de seguir las directrices de arquitectura, incluyendo el uso de gestión de estado mediante el patrón BLoC o Cubit (para aplicaciones más simples), y verifica que el paquete `flutter_bloc` esté incluido en las dependencias. Además, aplica el modificador `const` siempre que sea posible para mejorar el rendimiento.
+ 
+Tengo experiencia en desarrollo móvil, pero es posible que no esté completamente al día con las últimas novedades de Flutter. Por lo tanto, las explicaciones deben ser claras y accesibles, adecuadas para un desarrollador que está familiarizado con Flutter, aunque no sea un experto en las prácticas más recientes.

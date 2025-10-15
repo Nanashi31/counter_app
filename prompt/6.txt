@@ -1,0 +1,19 @@
+Necesito la implementación de una pantalla de aplicación Flutter para una funcionalidad de contador, siguiendo los principios de Arquitectura Limpia (Clean Architecture) y utilizando Dart 3.9+ y Flutter 3.35+. La implementación debe incluir lo siguiente:
+ 
+1. Un widget `Scaffold` como estructura principal del diseño.
+2. En el cuerpo (`body`) del `Scaffold`, un contenedor centrado que contenga:
+     - Un widget `Text` principal para mostrar el número actual de clics.
+     - Un widget `Text` secundario que muestre «click...» cuando el contador sea 1 y «clicks...» para cualquier otro valor.
+3. Un `FloatingActionButton` que incremente el contador en 1 al pulsarlo.
+4. Una `AppBar` con un `IconButton` en la propiedad `actions` para restablecer el contador a 0.
+ 
+Por favor, proporciona una breve explicación de la responsabilidad de cada componente e incluye fragmentos de código que ilustren su estructura. Cada widget debe ubicarse en su propio archivo y estar implementado como un `StatelessWidget` para mejorar el rendimiento de la aplicación. Asegúrate también de que la aplicación no muestre el banner de depuración (*debug banner*). El archivo de la pantalla del contador debe ubicarse en `lib/features/counter/presentation/pages/counter_page.dart`.
+ 
+Asegúrate de cumplir con las siguientes advertencias y requisitos:
+ 
+- Mantén una estructura modular basada en funcionalidades (*features*) y conceptos centrales (*core*).
+- Implementa la gestión de estado utilizando el patrón BLoC o Cubit, según sea apropiado.
+- Incluye las dependencias necesarias, como `flutter_bloc`, en el archivo `pubspec.yaml`.
+- Optimiza el rendimiento utilizando la palabra clave `const` siempre que sea aplicable.
+ 
+Como contexto, tengo experiencia en desarrollo móvil, pero necesito un enfoque claro y estructurado para implementar esta funcionalidad de contador siguiendo las mejores prácticas. La respuesta debe ser profesional y fácil de entender para alguien con conocimientos básicos de desarrollo en Flutter.

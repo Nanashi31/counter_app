@@ -1,0 +1,15 @@
+Necesito la creación de una solución de gestión de estado para una aplicación móvil utilizando Dart 3.9+ y Flutter 3.35+, siguiendo un enfoque de Arquitectura Limpia (Clean Architecture). La solución debe incluir los siguientes componentes:
+ 
+1. **Estado inicial del contador** (debe inicializarse en 0).
+2. **Un método para incrementar el contador**.
+3. **Un método para restablecer el contador a 0**.
+ 
+Por favor, incluye los siguientes detalles en tu respuesta:
+ 
+1. **La ruta del archivo** donde deben crearse los archivos de gestión de estado (por ejemplo: `lib/features/counter/presentation/cubit/`).
+2. **Una breve explicación** de la función de cada componente.
+3. **Fragmentos de código** que muestren la declaración del gestor de estado y cómo actualizar su estado.
+ 
+Asegúrate de que la implementación siga los principios SOLID y utilice el paquete `flutter_bloc` para la gestión de estado. Evita complejidades innecesarias en el código y prioriza la claridad y la eficiencia. La respuesta debe mantener un tono profesional, adecuado para una audiencia de desarrolladores.
+ 
+Tengo experiencia en desarrollo móvil, pero no soy experto en gestión de estado con Dart o Flutter. El código debe servir como una guía práctica para implementar la gestión de estado dentro de una estructura de aplicación modular.

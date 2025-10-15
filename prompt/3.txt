@@ -1,0 +1,7 @@
+Necesito orientación sobre cómo agregar dependencias de gestión de estado a mi proyecto Flutter utilizando Cubit, específicamente los paquetes `bloc` y `flutter_bloc`. Por favor, proporciona los siguientes detalles:
+ 
+1. El comando exacto que debo ejecutar en la terminal para añadir estas dependencias.
+2. Una breve explicación del propósito de cada paquete (`bloc` y `flutter_bloc`).
+3. El orden adecuado para listar estas dependencias en el archivo `pubspec.yaml`, incluyendo la sangría correcta y su ubicación dentro del archivo.
+ 
+Asegúrate de que las explicaciones sean claras y concisas, pensadas para alguien con conocimientos básicos de Dart y Flutter. Actualmente estoy trabajando en un proyecto que sigue los principios de Arquitectura Limpia (Clean Architecture) y las directrices SOLID, por lo que el uso de estos paquetes debe alinearse con el objetivo de mantener un diseño de aplicación estructurado y eficiente.
