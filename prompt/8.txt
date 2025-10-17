@@ -1,7 +1,0 @@
-"Proporciona los siguientes pasos para versionar el proyecto:
- 
-1. Inicializa el repositorio: `git init`.
-2. Agrega todos los archivos: `git add .`.
-3. Realiza el commit inicial: `git commit -m 'Initial commit - Proyecto counterapp'`.
-4. Conecta con el repositorio remoto en GitHub: `git remote add origin [URL-del-repositorio]`.
-5. Sube el código: `git push -u origin [Nombre-de-la-rama]`.Explica brevemente la función de cada comando."
